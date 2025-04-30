@@ -73,7 +73,7 @@ Inspired by:
 If you liked this project or have suggestions, feel free to connect or reach out:
 
 🔗 [LinkedIn](https://www.linkedin.com/in/khushal-joshi728/)  
-📧 youremail@example.com
+📧 Khushalj2003@gmail.com
 
 ---
 
