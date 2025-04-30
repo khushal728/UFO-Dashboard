@@ -48,7 +48,7 @@ It includes timestamped records of sightings, durations, shapes, and locations.
 ## 📽️ Demo
 
 You can watch a quick walkthrough of the dashboard in action here:  
-🎥 **[UFO Dashboard Video](./Ufo%20Dashboard.mp4)**
+🎥 **[UFO Dashboard Video](https://github.com/user-attachments/assets/7d4c0ff3-dafe-4386-be35-26f898478954)**
 
 ---
 
